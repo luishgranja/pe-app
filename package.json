@@ -22,7 +22,6 @@
     "filereader": "^0.10.3",
     "lodash.isempty": "^4.4.0",
     "md5": "^2.3.0",
-    "mmmagic": "^0.5.3",
     "wasmagic": "^0.0.23"
   },
   "devDependencies": {
