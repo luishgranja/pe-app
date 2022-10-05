@@ -50,4 +50,5 @@ Requires Node v17.9.1
     
 ## Info
 
-Deployed using AWS EC2 and AWS DynamoDB
+- Deployed using AWS EC2 and AWS DynamoDB
+- File limit size is 10MB
