@@ -50,4 +50,4 @@ Requires Node v17.9.1
     
 ## Info
 
-Deployed using AWS
+Deployed using AWS EC2 and AWS DynamoDB
