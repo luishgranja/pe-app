@@ -32,7 +32,22 @@ Response
 }
 ```
 
+## Installation
+For local testing and development
 
+Requires Node v17.9.1
+
+ - Install dependencies
+
+    ```$ npm i```
+    
+   
+ - Start project
+
+   ```$ npm start```
+    
+    Go to localhost:3500
+    
 ## Info
 
 Deployed using AWS
